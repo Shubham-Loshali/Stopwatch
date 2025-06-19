@@ -11,9 +11,12 @@ A simple terminal-based stopwatch application built using Python's `tkinter` lib
 
 ## 🖼️ Screenshot
 
-![Stopwatch GUI]## 🖼️ Screenshot
+### 🖥️ Stopwatch UI - Initial State
+![Stopwatch GUI 1](https://raw.githubusercontent.com/Shubham-Loshali/Stopwatch/main/screenshot/Screenshot%202025-06-19%20113956.png)
 
-![Stopwatch GUI](https://raw.githubusercontent.com/Shubham-Loshali/Stopwatch/main/screenshot/Screenshot%202025-06-19%20113956.png)
+### 🖥️ Stopwatch UI - Running State
+![Stopwatch GUI 2](https://raw.githubusercontent.com/Shubham-Loshali/Stopwatch/main/screenshot/Screenshot%202025-06-19%20114005.png)
+
 
 ## 🛠️ Requirements
 
